@@ -1,0 +1,32 @@
+.tab{
+  
+   margin-top: 0.5rem;;
+   width: 90%;
+   max-width: 50rem;
+   border: 1px solid #ccc;
+   border-radius: 0.3rem;
+}
+
+td{
+    border: 1px solid #ccc;
+}
+.root{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+.check{
+     margin: 2rem;
+}
+.button {
+    font: inherit;
+    border: 1px solid;
+    background: #b10a0a;
+    color: white;
+    padding : 0.25rem 2rem;
+    cursor: pointer;
+    border-radius:0.5rem ;
+    
+  }
+

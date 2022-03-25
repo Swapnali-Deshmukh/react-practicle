@@ -1,0 +1,20 @@
+.input {
+    margin: 2rem auto;
+    padding: 1rem;
+    width: 90%;
+    max-width: 20rem;
+    border-radius: 0.5rem;
+  }
+  .button {
+    font: inherit;
+    border: 1px solid #4f005f;
+    background: #1388f7;
+    color: white;
+    padding : 0.25rem 2rem;
+    margin: 2rem;
+    cursor: pointer;
+    border-radius:0.5rem ;
+    
+  }
+
+ 
